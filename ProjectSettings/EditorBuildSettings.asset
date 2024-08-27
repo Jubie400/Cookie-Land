@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/CookiePlayground.unity
+    guid: 401f790f08f84724a8704cd7b1466dbd
+  - enabled: 1
+    path: Assets/Scenes/2.0.unity
+    guid: 89b860cf569aae94980eee621ca751a7
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 64c304b54c28f144cbaff4925cc7f8dc,
+      type: 3}
+  m_UseUCBPForAssetBundles: 0
